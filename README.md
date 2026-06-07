@@ -3,7 +3,7 @@
   
   # Hi there, I'm Hassan Ahmed! 👋 
   
-  ### 👨‍💻 CS Major | 💻 Software Engineer | 🧠 AI Enthusiast | 🛡️ Cyber Security Interest
+  ### 👨‍💻 CS Major | 💻 Software Engineer | 🧠 Systems & ML | 🛡️ Cybersecurity Interest
   
   *"If it is working, leave it as it is."* <br/>
 
@@ -25,21 +25,35 @@
 
 ### 🧐 About Me
 
-I'm a **CS Major** and A Future **Software Engineer** based in **Egypt** 🇪🇬. While my core focus is building robust software systems, I have a deep interest in integrating **Artificial Intelligence** and applying **Cybersecurity** best practices to my code.
+I'm a **CS Major** and future **Software Engineer** based in **Egypt** 🇪🇬. I build systems-level software with a focus on correctness and performance, and I'm working my way through the full ML stack.
 
-- 🔭 **I’m currently working on:** Building secure extensions and management systems.
-- 🌱 **I’m currently learning:** Deepening my knowledge in **AI Engineering** and **Design patterns**.
-- ⚡ **Fun fact:** A teacher once told me about a tedious data entry problem with student stats, so I wrote a Python script to scrape and automate the whole process for them.
+- 🔭 **I'm currently working on:** Post-ship polish on TraceDSA + actively hunting my first internship
+- 🌱 **I'm currently learning:** Systems programming depth (C++23) and ML foundations
+- ⚡ **Fun fact:** A teacher told me she had to manually check the learning portal progress of every student in her class. I wrote a script that reads the student PDF, scrapes the portal for each one, and dumps everything into Excel. She still uses it.
 
 ---
 
 ### 🏆 Featured Projects
 
-| **HA's Password Locker** | **SmartChef** |
+| **BracketChecker** | **TraceDSA** |
 |:---:|:---:|
-| 🔒 **Secure Browser Extension** | 🍽️ **Restaurant Management System** |
-| A secure password manager built to encrypt and store credentials locally. Focuses on user privacy and secure encryption standards. | A comprehensive OOP-based Python application for managing restaurant operations, orders, and inventory. |
-| `JavaScript` `Crypto` `Extension` | `Python` `OOP` `Management` |
+| 🔍 **Real-time Syntax Validator** | 📊 **Data Structure Visualizer** |
+| C++ stack-based parser compiled to WebAssembly. Validates JSON, HTML, and math expressions in the browser with sub-10ms response times and animated SVG error overlays. | C++23 backend + Python TUI that visualizes data structure operations in real time. Custom ArrayList from scratch — no STL containers. Shipped to PyPI as `tdsa`. |
+| `C++` `WebAssembly` `JavaScript` | `C++23` `Python` `Textual` `PyPI` |
+| [Live Demo](https://ha2077.github.io/BracketChecker/) · [GitHub](https://github.com/HA2077/BracketChecker) | [pip install tracedsa](https://pypi.org/project/tracedsa/) · [GitHub](https://github.com/HA2077/TraceDSA) |
+
+<details>
+<summary>More projects</summary>
+<br/>
+
+| **SmartChef** |
+|:---:|
+| 🍽️ **Restaurant Management System** |
+| Python OOP desktop GUI for managing orders and a 50+ item menu catalogue. |
+| `Python` `Tkinter` `OOP` |
+| [GitHub](https://github.com/HA2077/SmartChef) |
+
+</details>
 
 ---
 
@@ -48,33 +62,21 @@ I'm a **CS Major** and A Future **Software Engineer** based in **Egypt** 🇪�
 **Languages**
 <div align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
-**Tools & Frameworks**
+**Tools & Technologies**
 <div align="left">
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HA2077&show_icons=true&theme=radical&count_private=true" alt="Hassan's GitHub Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HA2077&layout=compact&theme=radical" alt="Top Languages" />
-
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 ---
