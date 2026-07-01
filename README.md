@@ -13,6 +13,9 @@
   <a href="https://instagram.com/da_real_hassan_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/HA_07/">
+    <img src="https://img.shields.io/badge/LeetCode-ff9100?style=for-the-badge&logo=LeetCode&logoColor=white" />
+  </a>
   <a href="https://www.hackerrank.com/profile/THEHA">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
