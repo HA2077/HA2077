@@ -3,7 +3,7 @@
   
   # Hi there, I'm Hassan Ahmed! 👋 
   
-  ### 👨‍💻 CS Major | 💻 Software Engineer | 🧠 Systems & ML | 🛡️ Cybersecurity Interest
+  ### 👨‍💻 SWE Intern @ DSC Egypt | 💻 CS Major | ⚙️ Backend & Systems
   
   *"If it is working, leave it as it is."* <br/>
 
@@ -19,20 +19,20 @@
   <a href="https://www.hackerrank.com/profile/THEHA">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="mailto:hassanahmed.code@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+  📧 hassanahmed.code@gmail.com
 </div>
 
 ---
 
 ### 🧐 About Me
 
-I'm a **CS Major** and future **Software Engineer** based in **Egypt** 🇪🇬. I build systems-level software with a focus on correctness and performance, and I'm working my way through the full ML stack.
+I'm a third-year **CS Major** based in **Egypt** 🇪🇬 and a **SWE Intern at DSC Egypt**, building backend services in Python. I also lead the **C++ & Problem Solving committee** at my university and teach its beginner bootcamp.
 
-- 🔭 **I'm currently working on:** Post-ship polish on TraceDSA + actively hunting my first internship
-- 🌱 **I'm currently learning:** Systems programming depth (C++23) and ML foundations
-- ⚡ **Fun fact:** A teacher told me she had to manually check the learning portal progress of every student in her class. I wrote a script that reads the student PDF, scrapes the portal for each one, and dumps everything into Excel. She still uses it.
+- 🔭 **Right now:** the DSC SWE internship (FastAPI, SQLAlchemy, pytest) and the C++ & Problem Solving Level 0 bootcamp
+- 🌱 **Learning:** backend engineering and competitive programming (178 LeetCode problems so far)
+- 🚧 **Next up:** a portfolio site and a C++ to WebAssembly chess engine
+- ⚡ **Fun fact:** A teacher told me she had to manually check every student's progress on a learning portal. I wrote a script that reads the student PDF, scrapes the portal for each student, and dumps the results into Excel. A lot of teachers ended up using it.
 
 ---
 
@@ -41,9 +41,14 @@ I'm a **CS Major** and future **Software Engineer** based in **Egypt** 🇪🇬.
 | **BracketChecker** | **TraceDSA** |
 |:---:|:---:|
 | 🔍 **Real-time Syntax Validator** | 📊 **Data Structure Visualizer** |
-| C++ stack-based parser compiled to WebAssembly. Validates JSON, HTML, and math expressions in the browser with sub-10ms response times and animated SVG error overlays. | C++23 backend + Python TUI that visualizes data structure operations in real time. Custom ArrayList from scratch — no STL containers. Shipped to PyPI as `tdsa`. |
+| C++ stack-based parser compiled to WebAssembly. Validates JSON, HTML, and math expressions in the browser, with animated SVG error overlays and a live parser stack view. | C++23 backends and a Python Textual TUI that visualize data structure operations live. Custom dynamic array, no STL containers. 550+ PyPI downloads in its first month. |
 | `C++` `WebAssembly` `JavaScript` | `C++23` `Python` `Textual` `PyPI` |
-| [Live Demo](https://ha2077.github.io/BracketChecker/) · [GitHub](https://github.com/HA2077/BracketChecker) | [pip install tracedsa](https://pypi.org/project/tracedsa/) · [GitHub](https://github.com/HA2077/TraceDSA) |
+| [Live Demo](https://ha2077.github.io/BracketChecker/) · [GitHub](https://github.com/HA2077/BracketChecker) | `pip install tracedsa` · [PyPI](https://pypi.org/project/tracedsa/) · [GitHub](https://github.com/HA2077/TraceDSA) |
+
+### 🏢 DSC Egypt SWE Internship (2026)
+
+- [**dsc26-swe-w02**](https://github.com/HA2077/dsc26-swe-w02): contract-first parcel API in FastAPI with a framework-free domain module, cursor pagination, RFC 9457 errors, pytest, and ADRs
+- [**dsc26-swe-w03**](https://github.com/HA2077/dsc26-swe-w03): money-transfer API with SQLAlchemy and Alembic migrations, idempotent retries, per-customer rate limiting, and atomic transfers
 
 <details>
 <summary>More projects</summary>
@@ -69,6 +74,13 @@ I'm a **CS Major** and future **Software Engineer** based in **Egypt** 🇪🇬.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</div>
+
+**Backend**
+<div align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 </div>
 
 **Tools & Technologies**
